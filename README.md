@@ -2,7 +2,7 @@
 ### About Me
 I am an application developer as known as a "Generalist" at small start-up in Seoul.
 I was jumped in to start-up swamp since 2014.
-My work experiences; Native Frameworks (Android SDK and iOS SDK) /Flutter for make Mobile/Desktop/Web application, Flask/Spring boot/Ktor for make Server-side application, Python scripting for various messy automation jobs and various chip-specific frameworks like STM32Cube, ESP-IDF, etc. for make embedded application firmware.
+My work experiences; Native Frameworks (Android SDK and iOS SDK)/Flutter for make Mobile/Desktop/Web application, Flask/Spring boot/Ktor for make Server-side application, Python scripting for various messy automation jobs and various chip-specific frameworks like STM32Cube, ESP-IDF, etc. for make embedded application firmware.
 
 Also, I have many hobbies for my life; such as Military, Amateur Radio, playing base and more.
 
